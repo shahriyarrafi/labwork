@@ -1,11 +1,7 @@
 # CRUD-Operation with details page
 ## Sreenshoot:
-![crud-Op](https://github.com/Nobin2362/CRUD_Operation/blob/main/Mokhles.jpg)
-![crud-Op](https://github.com/Nobin2362/CRUD_Operation/blob/main/Nabil.jpg)
-![crud-Op](https://github.com/Nobin2362/CRUD_Operation/blob/main/Pritue.jpg)
-![crud-Op](https://github.com/Nobin2362/CRUD_Operation/blob/main/Rafi.jpg)
-![crud-Op](https://github.com/Nobin2362/CRUD_Operation/blob/main/Tuhin.jpg)
-![crud-Op](https://github.com/Nobin2362/CRUD_Operation/blob/main/Sathi.jpg)
+![crud-Op](https://github.com/shahriyarrafi/labwork/blob/main/output/Rafi.jpg)
+
 
 
 # Details Code: 
